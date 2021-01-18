@@ -55,7 +55,7 @@ function draw() {
   keyPressed2();
   fall();
 
-  //fairyVoice.play();
+  fairyVoice.play();
 
 
   if(star.isTouching(fairy)&&star.y>470){
